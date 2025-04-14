@@ -4,7 +4,7 @@ A simple and elegant static web page project created using HTML and CSS. This pr
 
 ## 🌐 Live Preview
 
-To preview the project locally, open the `index.html` file in any modern web browser.
+Check out the live version here: [https://priyalsoni02.github.io/Jyoti/](https://priyalsoni02.github.io/Jyoti/)
 
 ## 📁 Project Structure
 
